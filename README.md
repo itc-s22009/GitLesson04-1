@@ -8,7 +8,7 @@
 * s22006 「[クラナド](https://www.tbs.co.jp/clannad/clannad1/)」
 * s22007 「[からかい上手の高木さん](https://takagi3.me/)」
 * s22008  「[湾岸MIDNIGHT](https://magazine.yanmaga.jp/c/wanganmidnight/)」
-* s22009   
+* s22009 「[響け！ユーフォニアム](http://tv.anime-eupho.com/)」
 * s22011  ｢[ドラえもん](https://dora-world.com/)｣ 
 * s22012  ｢[ワールドトリガー](https://www.toei-anim.co.jp/tv/wt/)｣ 
 * s22013 「[推しの子](https://ichigoproduction.com/)」 
